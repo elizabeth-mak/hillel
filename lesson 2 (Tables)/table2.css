@@ -1,0 +1,39 @@
+table, tr, td {
+    border: 5px solid black;
+    border-collapse: collapse;
+  }
+  
+  td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: center;
+  }
+  
+  .caption-size {
+    font-size: 30px;
+  }
+
+  .bg-red {
+    background: rgb(124, 1, 1);
+  }
+  
+  .bg-yellow {
+    background: rgb(240, 217, 12);
+  }
+
+  .bg-gray {
+      background: rgb(214, 214, 214);
+  }
+
+  .bg-dark-blue {
+      background: rgb(1, 1, 59);
+  }
+  
+  .bg-white {
+      background: rgb(247, 242, 242);
+  }
+
+  /* .bg-black {
+      background: rgb(0, 0, 0);
+  } */
